@@ -44,6 +44,7 @@ Hi, I'm [NIket Agrawal](https://github.com/nalin-programmer), Competitive Progra
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/android.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/androidstudio.svg"></code>
 <details>
 <summary>📈 My GitHub Stats</summary>
 
