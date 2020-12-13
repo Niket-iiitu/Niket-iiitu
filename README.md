@@ -15,6 +15,7 @@
 <a href="https://codeforces.com/profile/NIKET-100">
   <img align="left" alt="Nikets's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Niket.iiitu.Niket-iiitu)
 <br/>
 <p  style = "font-family:Comic Sans;">
