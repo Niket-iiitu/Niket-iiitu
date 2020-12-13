@@ -29,13 +29,13 @@ Hi, I'm [NIket Agrawal](https://github.com/nalin-programmer), Competitive Progra
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>Python<br>
 ## <b>Talking about Personal Stuffs:</b>
 - 👨🏽‍💻 I’m currently working on something cool ;
-- 🌱 I’m currently learning Data Structures and Algorithms; 
+- 🌱 I’m currently learning Web Development; 
+- 🎆 I'm also Lotlin;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@niketagrawal777@gmail.com](niketagrawal777@gmail.com);
 <br>
 ## Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>C<br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>C<br>
