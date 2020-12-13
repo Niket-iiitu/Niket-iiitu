@@ -33,7 +33,7 @@ Hi, I'm [NIket Agrawal](https://github.com/nalin-programmer), Competitive Progra
 - 🎆 I'm also Lotlin;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@niketagrawal777@gmail.com](niketagrawal777@gmail.com);
-- 🎮 Check my repositories: [https://github.com/Niket-iiitu?tab=repositories](Click Here);
+- 🎮 Check my repositories: [Click Here](https://github.com/Niket-iiitu?tab=repositories);
 <br>
 
 ## <b>Languages and Tools:</b>
