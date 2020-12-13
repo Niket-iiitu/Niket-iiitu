@@ -1,10 +1,14 @@
-### Hi there 👋
-I am Niket Agrawal a Computer Science and Engineering student at Indian Institute of Information Technology Una, Himachal Pradesh, India.
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">NIKET AGRAWAL</h2>
+ <p align="center">Competitive Programmer and Software Developer</p>
+</p>
 
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ 
 <a href="https://www.linkedin.com/in/niket-agrawal-baa183191/">
-  <img align="left" alt="Niket's LinkdeIN" width="22px" src="https://media-exp1.licdn.com/dms/image/C5103AQEoR8dISykbuQ/profile-displayphoto-shrink_400_400/0?e=1604534400&v=beta&t=gNagobRhB_P27EKkWCFqTyxSpEeJnb7jT1B6GHEHCiU" />
-  </a>
+  <img align="left" alt="Niket's LinkdeIN" width="22px" src="https://media-exp1.licdn.com/dms/image/C5103AQEoR8dISykbuQ/profile-displayphoto-shrink_400_400/0?    e=1604534400&v=beta&t=gNagobRhB_P27EKkWCFqTyxSpEeJnb7jT1B6GHEHCiU" />
+</a>
   <a href="https://www.codechef.com/users/niket999">
   <img align="left" alt="Nikets's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codechef.svg" />
 </a>
