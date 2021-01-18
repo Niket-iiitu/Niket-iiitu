@@ -19,7 +19,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Niket.iiitu.Niket-iiitu)
 <br/>
 <p  style = "font-family:Comic Sans;">
-Hi, I'm [NIket Agrawal](https://github.com/nalin-programmer), Competitive Programmer and a Android Developer ✨ from India. Currently, I'm a am a student in Indian Institute of Information Technology Una, Himachal Pradesh studying in the field of Computer Sciene and Engineering💻, constently learning and making new stuf.
+Hi, I'm [NIket Agrawal](https://github.com/niket-iiitu), Competitive Programmer, full stack developer and a Android Developer ✨ from India. Currently, I'm a am a student in Indian Institute of Information Technology Una, Himachal Pradesh studying in the field of Computer Sciene and Engineering, constently learning and making new stuf.
 </p>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
