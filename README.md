@@ -64,7 +64,7 @@ Hi, I'm [NIket Agrawal](https://github.com/niket-iiitu), Competitive Programmer,
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nalin-programmer&show_icons=true&theme=gotham" alt="nalin-programmer" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niket-iiitu&show_icons=true&theme=gotham" alt="niket-iiitu" />
 
 </details>
 <!--
