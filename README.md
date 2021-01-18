@@ -30,9 +30,6 @@ Hi, I'm [NIket Agrawal](https://github.com/niket-iiitu), Competitive Programmer,
 <code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg"></code>Java<br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>Node JS<br>
 ## <b>Talking about Personal Stuffs:</b>
-- 👨🏽‍💻 I’m currently working on something cool ;
-- 🌱 I’m currently learning Web Development; 
-- 🎆 I'm also Lotlin;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@niketagrawal777@gmail.com](niketagrawal777@gmail.com);
 - 🎮 Check my repositories: [Click Here](https://github.com/Niket-iiitu?tab=repositories);
