@@ -26,9 +26,9 @@ Hi, I'm [NIket Agrawal](https://github.com/niket-iiitu), Competitive Programmer,
 ## My favorate programming languages:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>C++<br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>Python<br>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>Dart<br>
-<code><img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg"></code>Java<br>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>Node JS<br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>Dart<br>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg"></code>Java<br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>Node JS<br>
 ## <b>Talking about Personal Stuffs:</b>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@niketagrawal777@gmail.com](niketagrawal777@gmail.com);
