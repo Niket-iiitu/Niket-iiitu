@@ -4,7 +4,7 @@
  <p align="center">Competitive Programmer and Software Developer</p>
 </p>
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height = "10px">
  
 <a href="https://www.linkedin.com/in/niket-agrawal-baa183191/">
   <img align="left" alt="Niket's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -19,7 +19,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Niket.iiitu.Niket-iiitu)
 <br/>
 <p  style = "font-family:Comic Sans;">
-Hi, I'm [NIket Agrawal](https://github.com/niket-iiitu), Competitive Programmer, full stack developer and a Android Developer ✨ from India. Currently, I'm a am a student in Indian Institute of Information Technology Una, Himachal Pradesh studying in the field of Computer Sciene and Engineering, constently learning and making new stuf.
+Hi, I'm [NIket Agrawal](https://github.com/niket-iiitu), Competitive Programmer, and a Full Stack Developer from India. Currently, I'm a am a student in Indian Institute of Information Technology Una, Himachal Pradesh studying in the field of Computer Sciene and Engineering, constently learning and making new stuf.
 </p>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
