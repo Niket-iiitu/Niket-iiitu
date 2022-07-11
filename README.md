@@ -8,7 +8,6 @@
  
 <a href="https://www.linkedin.com/in/niket-agrawal-developer/" alt="Nikets LinkedInd">LinkedIn</a> | <a href="https://www.codechef.com/users/niket999" alt="Nikets's Codechef">Code Chef</a> | <a href="https://codeforces.com/profile/NIKET-100" alt="Nikets's Codeforces">Code Forces</a><br/>
 ![](https://visitor-badge.glitch.me/badge?page_id=Niket.iiitu.Niket-iiitu)
-<br/>
 <p  style = "font-family:Comic Sans;">
 Hi, I'm [NIket Agrawal](https://github.com/niket-iiitu), Competitive Programmer, and a Full Stack Developer from India. Currently, I'm a am a student in Indian Institute of Information Technology Una, Himachal Pradesh studying in the field of Computer Sciene and Engineering, constently learning and making new stuf.
 </p>
