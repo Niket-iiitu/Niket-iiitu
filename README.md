@@ -7,7 +7,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height = "20px">
  
 <a href="https://www.linkedin.com/in/niket-agrawal-baa183191/">
-  <img align="left" alt="Niket's LinkedIN" width="20px" height="20px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://yt3.ggpht.com/a/AGF-l78UKMjzMY_5PjOE63fAbRCCkbFLq_sykeDdcw=s900-c-k-c0xffffffff-no-rj-mo)" />
+  <img align="left" alt="Niket's LinkedIN" width="20px" height="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://yt3.ggpht.com/a/AGF-l78UKMjzMY_5PjOE63fAbRCCkbFLq_sykeDdcw=s900-c-k-c0xffffffff-no-rj-mo)" />
 </a>
   <a href="https://www.codechef.com/users/niket999">
   <img align="left" alt="Nikets's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codechef.svg" />
