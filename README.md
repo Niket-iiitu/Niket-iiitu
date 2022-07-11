@@ -6,15 +6,12 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height = "20px">
  
-<a href="https://www.linkedin.com/in/niket-agrawal-developer/" alt="Nikets LinkedInd">
-  LinkedIn
-</a>
-  <a href="https://www.codechef.com/users/niket999">
-  <img align="left" alt="Nikets's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codechef.svg" />
-</a>
-<a href="https://codeforces.com/profile/NIKET-100">
-  <img align="left" alt="Nikets's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/codeforces.svg" />
-</a>
+<a href="https://www.linkedin.com/in/niket-agrawal-developer/" alt="Nikets LinkedInd">LinkedIn
+</a><br/>
+<a href="https://www.codechef.com/users/niket999" alt="Nikets's Codechef">Code Chef
+</a><br/>
+<a href="https://codeforces.com/profile/NIKET-100" alt="Nikets's Codeforces">Code Forces
+</a><br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Niket.iiitu.Niket-iiitu)
 <br/>
