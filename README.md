@@ -8,7 +8,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height = "20px">
  
-<a href="https://www.linkedin.com/in/niket-agrawal-developer/" alt="Nikets LinkedInd">LinkedIn</a> | <a href="https://www.codechef.com/users/niket999" alt="Nikets's Codechef">Code Chef</a> | <a href="https://codeforces.com/profile/NIKET-100" alt="Nikets's Codeforces">Code Forces</a><br/>
+<a href="https://www.codechef.com/users/niket999" alt="Nikets's Codechef">Code Chef</a> | <a href="https://codeforces.com/profile/NIKET-100" alt="Nikets's Codeforces">Code Forces</a> | <a href="https://codeforces.com/profile/NIKET-100" alt="Nikets's LeetCode">Leet Code</a><br/>
 <p  style = "font-family:Comic Sans;">
 Hi, I'm [NIket Agrawal](https://github.com/niket-iiitu), Competitive Programmer, and a Full Stack Developer from India. Currently, I'm a am a student in Indian Institute of Information Technology Una, Himachal Pradesh studying in the field of Computer Sciene and Engineering, constently learning and making new stuf.
 </p>
@@ -23,9 +23,10 @@ Hi, I'm [NIket Agrawal](https://github.com/niket-iiitu), Competitive Programmer,
 - IIIT Una (5 Months) as MERN Intern
 - AJVA FinTech (6 Months) as Developer Intern
 
-## <b>Talking about Personal Stuffs:</b>
-- 📫 How to reach me: [@niketagrawal777@gmail.com](niketagrawal777@gmail.com);
-- 🎮 Check my repositories: [Click Here](https://github.com/Niket-iiitu?tab=repositories);
+## Talking about Personal Stuffs:
+- How to reach me: [Gmail](niketagrawal777@gmail.com)
+- LinkedIn: [Click Here](https://www.linkedin.com/in/niket-agrawal-developer/)
+- Check my repositories: [Click Here](https://github.com/Niket-iiitu?tab=repositories)
 <br>
 
 ## <b>Languages and Tools:</b>
